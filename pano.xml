@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20981" hassounds="0" appversion="7.1.7" start="node1">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="407.189">
+      <start fov="120" projection="4" pan="-2.15661" tilt="-2.20707"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41987180" customnodeid="" datetime="01/08/2024 11:25" streetviewlink="https://www.google.com/maps/@-20.4198718,-51.3337497,3a,75y,49.35h,90t/data=!3m4!1e1!3m2!1sAF1QipPHntNlnZpeoG-1DLFKYKk460x33tdHPkuRqaoL!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="Goiano Experience Restaurante em Ilha solteira" longitude="-51.33374974" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="407.189" tags="GIGANTE" nodeid="node1" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.6572" description="" target="$fwd" url="{node2}" id="Point01" skinid="ht_node" pan="356.148" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="504.823">
+      <start fov="120" projection="4" pan="64.1589" tilt="-2.76624"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41985112" customnodeid="" datetime="01/08/2024 11:28" streetviewlink="https://www.google.com/maps/@-20.4198511,-51.3337225,3a,75y,80.66h,90t/data=!3m4!1e1!3m2!1sAF1QipMfBshHfepyhz7QrqQV3nN1T5S7K64h_XF94enn!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.50" author="" longitude="-51.33372245" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="504.823" tags="GIGANTE" nodeid="node2" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.6572" description="" target="$fwd" url="{node1}" id="Point01" skinid="ht_node" pan="633.782" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.47646" description="" target="$fwd" url="{node3}" id="Point02" skinid="ht_node" pan="422.525" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="116.964">
+      <start fov="120" projection="4" pan="-72.6097" tilt="-2.63483"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41984693" customnodeid="" datetime="01/08/2024 11:29" streetviewlink="https://www.google.com/maps/@-20.4198469,-51.3336894,3a,75y,189.57h,90t/data=!3m4!1e1!3m2!1sAF1QipNsMHfIRq0TeEx0enJ8LLg3YVzi0Rn53XhiQKYZ!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.50" author="" longitude="-51.33368939" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="116.964" tags="GIGANTE" nodeid="node3" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.47646" description="" target="$fwd" url="{node2}" id="Point01" skinid="ht_node" pan="214.666" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.83865" description="" target="$fwd" url="{node4}" id="Point02" skinid="ht_node" pan="151.815" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.53809" description="" target="$fwd" url="{node5}" id="Point03" skinid="ht_node" pan="-57.4922" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="4.34126" description="" target="$fwd" url="{node8}" id="Point04" skinid="ht_node" pan="255.93" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="781.299">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41981860" customnodeid="" datetime="01/08/2024 11:30" streetviewlink="https://www.google.com/maps/@-20.4198186,-51.3337104,3a,75y,61.3h,90t/data=!3m4!1e1!3m2!1sAF1QipMatVTWr5CF6md77cttHFdXsGjTUigTs-72tYNz!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.50" author="" longitude="-51.33371044" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="781.299" tags="GIGANTE" nodeid="node4" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.83865" description="" target="$fwd" url="{node3}" id="Point01" skinid="ht_node" pan="636.15" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="455.572">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41987860" customnodeid="" datetime="01/08/2024 11:34" streetviewlink="https://www.google.com/maps/@-20.4198786,-51.3336861,3a,75y,95.57h,90t/data=!3m4!1e1!3m2!1sAF1QipOJRUU_z_Soo1XDmxvAfiNSdStXFzMR7z2h8k2b!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33368611" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="455.572" tags="GIGANTE" nodeid="node5" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.53809" description="" target="$fwd" url="{node3}" id="Point01" skinid="ht_node" pan="461.116" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="4.30603" description="" target="$fwd" url="{node6}" id="Point02" skinid="ht_node" pan="286.905" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-288.8">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41991657" customnodeid="" datetime="01/08/2024 11:36" streetviewlink="https://www.google.com/maps/@-20.4199166,-51.333678,3a,75y,71.2h,90t/data=!3m4!1e1!3m2!1sAF1QipO213ZHHv2RLykVAXXV6t2HDp0pcSmS_-eJIRxQ!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33367799" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="-288.8" tags="GIGANTE" nodeid="node6" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.30603" description="" target="$fwd" url="{node5}" id="Point01" skinid="ht_node" pan="-277.467" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.46717" description="" target="$fwd" url="{node7}" id="Point02" skinid="ht_node" pan="-179.18" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="216.029">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41992704" customnodeid="" datetime="01/08/2024 11:37" streetviewlink="https://www.google.com/maps/@-20.419927,-51.3337093,3a,75y,216.03h,90t/data=!3m4!1e1!3m2!1sAF1QipPDMMUeiM3nFMTzXsxw-z6dmwttubvISRcRzu95!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33370933" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="216.029" tags="GIGANTE" nodeid="node7" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.46717" description="" target="$fwd" url="{node6}" id="Point01" skinid="ht_node" pan="145.649" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.18098" description="" target="$fwd" url="{node9}" id="Point02" skinid="ht_node" pan="332.564" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="481.156">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41987638" customnodeid="" datetime="01/08/2024 11:38" streetviewlink="https://www.google.com/maps/@-20.4198764,-51.3337167,3a,75y,121.16h,90t/data=!3m4!1e1!3m2!1sAF1QipM9O-W95Oo0n-cxuGZv7mdBVWTeNva7v6ZWpTgR!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33371674" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="481.156" tags="GIGANTE" nodeid="node8" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.34126" description="" target="$fwd" url="{node3}" id="Point01" skinid="ht_node" pan="440.122" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="230.673">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41993982" customnodeid="" datetime="01/08/2024 11:39" streetviewlink="https://www.google.com/maps/@-20.4199398,-51.3337366,3a,75y,230.67h,90t/data=!3m4!1e1!3m2!1sAF1QipPuj8yRzVgSRFrlkcABDCjAgMteijdgrftfWhC6!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33373664" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="230.673" tags="GIGANTE" nodeid="node9" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.04355" description="" target="$fwd" url="{node10}" id="Point02" skinid="ht_node" pan="73.541" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.18098" description="" target="$fwd" url="{node7}" id="Point01" skinid="ht_node" pan="167.208" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="67.8878">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41996504" customnodeid="" datetime="01/08/2024 11:40" streetviewlink="https://www.google.com/maps/@-20.419965,-51.3337253,3a,75y,67.9h,90t/data=!3m4!1e1!3m2!1sAF1QipMKoT6TOBf1Z8vlD3QnRyewzms6zItAY8CCUSdR!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33372529" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="67.8878" tags="GIGANTE" nodeid="node10" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.04355" description="" target="$fwd" url="{node9}" id="Point01" skinid="ht_node" pan="90.7558" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="3.81931" description="" target="$fwd" url="{node11}" id="Point02" skinid="ht_node" pan="36.8817" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+      <hotspot distance="4.49747" description="" target="$fwd" url="{node12}" id="Point03" skinid="ht_node" pan="-32.1359" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="15.4954">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41993560" customnodeid="" datetime="01/08/2024 11:41" streetviewlink="https://www.google.com/maps/@-20.41994,-51.3337084,3a,75y,15.5h,90t/data=!3m4!1e1!3m2!1sAF1QipMOl6kK9fO8N-UvS15CpDXGsm-I3Wsr8sUw88hq!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33370641" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="15.4954" tags="GIGANTE" nodeid="node11" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="3.81931" description="" target="$fwd" url="{node10}" id="Point01" skinid="ht_node" pan="164.489" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" levelingroll="0" overlap="1" leveltilesize="510" height="5000" width="5000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400">
+      <level height="5000" width="5000" predecode="0" preload="0"/>
+      <level height="2500" width="2500" predecode="0" preload="0"/>
+      <level height="1250" width="1250" predecode="0" preload="0"/>
+      <level height="625" width="625" predecode="0" preload="0"/>
+      <level height="312" width="312" predecode="1" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="418.09">
+      <start fov="100" projection="4" pan="0" tilt="0"/>
+      <flyin fov="170" projection="9" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovstereographic="330" fov="140" scaletofit="1" fovfisheye="360" pan="360" tilt="90"/>
+    </view>
+    <userdata info="Goiano Experience Restaurante em Ilha solteira" latitude="-20.41997208" customnodeid="" datetime="01/08/2024 11:42" streetviewlink="https://www.google.com/maps/@-20.4199696,-51.3336922,3a,75y,58.1h,90t/data=!3m4!1e1!3m2!1sAF1QipMBq7K5q5a_7fskTy_YTK6JMvDGFiH0fEPT-Qna!2e10" description="Goiano Experience Restaurante em Ilha solteira" altitude="370.60" author="" longitude="-51.33368279" comment="Goiano Experience Restaurante em Ilha solteira" copyright="Goiano Experience Restaurante em Ilha solteira" heading="418.09" tags="GIGANTE" nodeid="node12" source="Goiano Experience Restaurante em Ilha solteira" title="Goiano Experience Restaurante em Ilha solteira"/>
+    <hotspots smoothmovement="0" height="20" width="180" wordwrap="1">
+      <label bordercolor="0x000000" textalpha="1" height="20" width="180" borderalpha="1" wordwrap="1" borderradius="1" background="1" enabled="1" backgroundalpha="1" textcolor="0x000000" border="1" backgroundcolor="0xffffff"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff"/>
+      <hotspot distance="4.49747" description="" target="$fwd" url="{node10}" id="Point01" skinid="ht_node" pan="498.066" tilt="0" title="Goiano Experience Restaurante em Ilha solteira"/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomafteroutfov="-1" blendcolor="0x000000" zoomin="0" zoomfov="40" zoomout="0" softedge="0" zoomoutpause="1" enabled="1" blendtime="1" zoomafterinfov="-1" zoomspeed="2" type="crossdissolve"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control zoomcentercursor="1" speedwheel="1" contextprojections="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" sensitivity="8" hideabout="0" contextvr="1" dblclickfullscreen="0" lockedwheel="0" lockedkeyboard="0" simulatemass="1" contextfullscreen="1" invertwheel="0" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" tags="" description="" author="" comment="" title=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
